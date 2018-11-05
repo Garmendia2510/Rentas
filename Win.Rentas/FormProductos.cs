@@ -95,5 +95,10 @@ namespace Win.Rentas
             DeshabilitarHabilitarBotones(true);
             Eliminar(0);
         }
+
+        private void FormProductos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
